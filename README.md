@@ -41,3 +41,11 @@ A simple command-line Java application that allows you to manage student data su
    cd path\to\your\project\folder
 ---
 ## Compile the Java File
+   ```bash
+   javac StudentDatabaseManagementSystem.java
+```
+---
+## Run the Program
+   ```bash
+   java StudentDatabaseManagementSystem
+
